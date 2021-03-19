@@ -1,1 +1,3 @@
 ## Docs
+
+[Editor Documentation](docs/)

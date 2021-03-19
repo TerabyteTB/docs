@@ -1,3 +1,3 @@
 ## Docs
 
-[Editor Documentation](docs/)
+[Editor Documentation](editor/)

@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"toolbox","l":"Constants"},{"p":"editor","l":"Editor"},{"p":"toolbox","l":"JSONFormatter"},{"p":"main","l":"Launcher"},{"p":"toolbox","l":"Session"},{"p":"toolbox","l":"SessionHandler"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"utils","l":"Constants"},{"p":"editor","l":"Editor"},{"p":"utils","l":"JSONFormatter"},{"p":"main","l":"Launcher"},{"p":"utils.session","l":"Session"},{"p":"utils.session","l":"SessionHandler"}];updateSearchResults();
